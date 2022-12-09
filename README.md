@@ -40,20 +40,34 @@
 
 
 ## Drop table
-### é um comando utilizado para exluir uma table por inteiro todos os dados e todas a linhas e colunas.
-
+### É um comando utilizado para exluir uma table por inteiro todos os dados e todas a linhas e colunas.
 ### Imagem Ilustrativa
 ![image](https://user-images.githubusercontent.com/99850729/206079522-fd3cd800-21fd-408a-ada9-bc89f3112066.png)
+
 
 # DML
 ## Insert into
 
 ## Delete
+### O código delete é usadado para apagar o conteúdo de uma entidade os valores que foram passados com o insert into"Não altera a estrutura da tabela apenas as linhas".
+### Imagem Ilustrativa
+
+### Antes
+![image](https://user-images.githubusercontent.com/99850729/206767541-0ac79c78-7ae3-45be-98bb-ad21a10ca713.png)
+
+
+### Depois
+![image](https://user-images.githubusercontent.com/99850729/206767611-bbb9af01-849c-42da-a834-29bccb01bf15.png)
 
 ## Trucante
+### Apaga tudos os valores da tabela, não só uma linha.
+### Imagem Ilustrativa
+![image](https://user-images.githubusercontent.com/99850729/206765787-50df3522-5ef8-4005-8cd1-56e683d3aed2.png)
 
-## Upadat
-
+## Upadate
+### Atualiza os valores
+### Imagem Ilustrativa
+![image](https://user-images.githubusercontent.com/99850729/206765734-bbac588b-e2ef-4201-b556-01219f2aab9e.png)
 
 # DQL
 ## Select 
