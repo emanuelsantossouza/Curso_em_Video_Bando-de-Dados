@@ -65,7 +65,11 @@
 ![image](https://user-images.githubusercontent.com/99850729/206765787-50df3522-5ef8-4005-8cd1-56e683d3aed2.png)
 
 ## Upadate
-### Atualiza os valores
+### Atualiza os valores.
+Dentro do upadate temos o set, where e limit:
+Set: Configura é onde a mágica acontece.
+where: Onde, a linha, o valor que é para ser trocado.
+limit: A limitação, quantos valores seram alterado? defina um limite com o limit.
 ### Imagem Ilustrativa
 ![image](https://user-images.githubusercontent.com/99850729/206765734-bbac588b-e2ef-4201-b556-01219f2aab9e.png)
 
