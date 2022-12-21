@@ -73,6 +73,4 @@ limit: A limitação, quantos valores seram alterado? defina um limite com o lim
 ### Imagem Ilustrativa
 ![image](https://user-images.githubusercontent.com/99850729/206765734-bbac588b-e2ef-4201-b556-01219f2aab9e.png)
 
-# DQL
-## Select 
 
